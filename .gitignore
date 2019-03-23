@@ -1,0 +1,5 @@
+scanner-venv/
+*.pyc
+config.py
+__pycache__/
+.DS_STORE

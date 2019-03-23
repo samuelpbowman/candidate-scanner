@@ -1,0 +1,57 @@
+{
+    "candidates":
+    [
+        {
+            "name": "Cory Booker",
+            "handle": "@CoryBooker"
+        },
+        {
+            "name": "Julian Castro",
+            "handle": "@JulianCastro"
+        },
+        {
+            "name": "John Delaney",
+            "handle": "@JohnDelaney"
+        },
+        {
+            "name": "Tulsi Gabbard",
+            "handle": "@TulsiGabbard"
+        },
+        {
+            "name": "Kirsten Gillibrand",
+            "handle": "@SenGillibrand"
+        },
+        {
+            "name": "Kamala Harris",
+            "handle": "@KamalaHarris"
+        },
+        {
+            "name": "John Hickenlooper",
+            "handle": "@Hickenlooper"
+        },
+        {
+            "name": "Jay Inslee",
+            "handle": "@JayInslee"
+        },
+        {
+            "name": "Amy Klobuchar",
+            "handle": "@amyklobuchar"
+        },
+        {
+            "name": "Beto O'Rourke",
+            "handle": "@BetoORourke"
+        },
+        {
+            "name": "Bernie Sanders",
+            "handle": "@BernieSanders"
+        },
+        {
+            "name": "Elizabeth Warren",
+            "handle": "@warren"
+        },
+        {
+            "name": "Andrew Yang",
+            "handle": "@AndrewYang"
+        }
+    ]
+}
