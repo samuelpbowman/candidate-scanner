@@ -3,55 +3,55 @@
     [
         {
             "name": "Cory Booker",
-            "handle": "@CoryBooker"
+            "handle": "CoryBooker"
         },
         {
             "name": "Julian Castro",
-            "handle": "@JulianCastro"
+            "handle": "JulianCastro"
         },
         {
             "name": "John Delaney",
-            "handle": "@JohnDelaney"
+            "handle": "JohnDelaney"
         },
         {
             "name": "Tulsi Gabbard",
-            "handle": "@TulsiGabbard"
+            "handle": "TulsiGabbard"
         },
         {
             "name": "Kirsten Gillibrand",
-            "handle": "@SenGillibrand"
+            "handle": "SenGillibrand"
         },
         {
             "name": "Kamala Harris",
-            "handle": "@KamalaHarris"
+            "handle": "KamalaHarris"
         },
         {
             "name": "John Hickenlooper",
-            "handle": "@Hickenlooper"
+            "handle": "Hickenlooper"
         },
         {
             "name": "Jay Inslee",
-            "handle": "@JayInslee"
+            "handle": "JayInslee"
         },
         {
             "name": "Amy Klobuchar",
-            "handle": "@amyklobuchar"
+            "handle": "amyklobuchar"
         },
         {
             "name": "Beto O'Rourke",
-            "handle": "@BetoORourke"
+            "handle": "BetoORourke"
         },
         {
             "name": "Bernie Sanders",
-            "handle": "@BernieSanders"
+            "handle": "BernieSanders"
         },
         {
             "name": "Elizabeth Warren",
-            "handle": "@warren"
+            "handle": "warren"
         },
         {
             "name": "Andrew Yang",
-            "handle": "@AndrewYang"
+            "handle": "AndrewYang"
         }
     ]
 }
