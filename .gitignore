@@ -4,4 +4,4 @@ config.py
 __pycache__/
 .DS_STORE
 .env
-sample*.txt
+*.code-workspace
