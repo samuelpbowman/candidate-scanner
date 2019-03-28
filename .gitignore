@@ -3,5 +3,4 @@ scanner-venv/
 config.py
 __pycache__/
 .DS_STORE
-.env
 *.code-workspace
