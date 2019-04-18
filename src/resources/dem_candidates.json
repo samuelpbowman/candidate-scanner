@@ -56,6 +56,22 @@
         {
             "name": "Wayne Messam",
             "handle": "WayneMessam"
+        },
+        {
+            "name": "Pete Buttigieg",
+            "handle": "PeteButtigieg"
+        },
+        {
+            "name": "Eric Swalwell",
+            "handle": "ericswalwell"
+        },
+        {
+            "name": "Tim Ryan",
+            "handle": "TimRyan"
+        },
+        {
+            "name": "Mike Gravel",
+            "handle": "MikeGravel"
         }
     ]
 }
